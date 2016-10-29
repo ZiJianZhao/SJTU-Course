@@ -1,0 +1,9 @@
+# Directories
+data
+report
+*.zip
+# Executables
+*.out
+
+# doc
+*.txt
