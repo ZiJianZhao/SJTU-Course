@@ -1,0 +1,251 @@
+01-03 12:08:10 PM total sentences lines: 8544
+01-03 12:08:10 PM dict length: 15339
+01-03 12:08:32 PM learning rate: 0.001
+01-03 12:08:38 PM epoch: 0, iter: 40, accuracy: 0.273
+01-03 12:08:45 PM epoch: 0, iter: 80, accuracy: 0.301
+01-03 12:08:52 PM epoch: 0, iter: 120, accuracy: 0.335
+01-03 12:08:58 PM epoch: 0, iter: 160, accuracy: 0.353
+01-03 12:09:00 PM Saved checkpoint to "params/sent-0000.params"
+01-03 12:09:01 PM ===================================
+01-03 12:09:01 PM epoch: 0, validation accuracy: 0.408
+01-03 12:09:01 PM ===================================
+01-03 12:09:07 PM epoch: 1, iter: 40, accuracy: 0.443
+01-03 12:09:14 PM epoch: 1, iter: 80, accuracy: 0.452
+01-03 12:09:20 PM epoch: 1, iter: 120, accuracy: 0.443
+01-03 12:09:27 PM epoch: 1, iter: 160, accuracy: 0.439
+01-03 12:09:29 PM Saved checkpoint to "params/sent-0001.params"
+01-03 12:09:29 PM ===================================
+01-03 12:09:29 PM epoch: 1, validation accuracy: 0.446
+01-03 12:09:29 PM ===================================
+01-03 12:09:36 PM epoch: 2, iter: 40, accuracy: 0.532
+01-03 12:09:42 PM epoch: 2, iter: 80, accuracy: 0.522
+01-03 12:09:49 PM epoch: 2, iter: 120, accuracy: 0.511
+01-03 12:09:55 PM epoch: 2, iter: 160, accuracy: 0.507
+01-03 12:09:57 PM Saved checkpoint to "params/sent-0002.params"
+01-03 12:09:58 PM ===================================
+01-03 12:09:58 PM epoch: 2, validation accuracy: 0.422
+01-03 12:09:58 PM ===================================
+01-03 12:09:58 PM -----------------------------------
+01-03 12:09:58 PM loading epoch 1 parameters
+01-03 12:09:58 PM reset learning rate to 0.0005
+01-03 12:09:58 PM -----------------------------------
+01-03 12:10:04 PM epoch: 3, iter: 40, accuracy: 0.531
+01-03 12:10:10 PM epoch: 3, iter: 80, accuracy: 0.541
+01-03 12:10:17 PM epoch: 3, iter: 120, accuracy: 0.546
+01-03 12:10:23 PM epoch: 3, iter: 160, accuracy: 0.545
+01-03 12:10:25 PM Saved checkpoint to "params/sent-0003.params"
+01-03 12:10:26 PM ===================================
+01-03 12:10:26 PM epoch: 3, validation accuracy: 0.440
+01-03 12:10:26 PM ===================================
+01-03 12:10:32 PM epoch: 4, iter: 40, accuracy: 0.656
+01-03 12:10:39 PM epoch: 4, iter: 80, accuracy: 0.648
+01-03 12:10:45 PM epoch: 4, iter: 120, accuracy: 0.641
+01-03 12:10:51 PM epoch: 4, iter: 160, accuracy: 0.638
+01-03 12:10:53 PM Saved checkpoint to "params/sent-0004.params"
+01-03 12:10:54 PM ===================================
+01-03 12:10:54 PM epoch: 4, validation accuracy: 0.445
+01-03 12:10:54 PM ===================================
+01-03 12:11:00 PM epoch: 5, iter: 40, accuracy: 0.746
+01-03 12:11:07 PM epoch: 5, iter: 80, accuracy: 0.729
+01-03 12:11:13 PM epoch: 5, iter: 120, accuracy: 0.724
+01-03 12:11:20 PM epoch: 5, iter: 160, accuracy: 0.720
+01-03 12:11:21 PM Saved checkpoint to "params/sent-0005.params"
+01-03 12:11:22 PM ===================================
+01-03 12:11:22 PM epoch: 5, validation accuracy: 0.422
+01-03 12:11:22 PM ===================================
+01-03 12:11:22 PM -----------------------------------
+01-03 12:11:22 PM loading epoch 1 parameters
+01-03 12:11:22 PM reset learning rate to 0.00025
+01-03 12:11:22 PM -----------------------------------
+01-03 12:11:29 PM epoch: 6, iter: 40, accuracy: 0.570
+01-03 12:11:35 PM epoch: 6, iter: 80, accuracy: 0.568
+01-03 12:11:41 PM epoch: 6, iter: 120, accuracy: 0.566
+01-03 12:11:48 PM epoch: 6, iter: 160, accuracy: 0.563
+01-03 12:11:50 PM Saved checkpoint to "params/sent-0006.params"
+01-03 12:11:51 PM ===================================
+01-03 12:11:51 PM epoch: 6, validation accuracy: 0.444
+01-03 12:11:51 PM ===================================
+01-03 12:11:57 PM epoch: 7, iter: 40, accuracy: 0.648
+01-03 12:12:03 PM epoch: 7, iter: 80, accuracy: 0.650
+01-03 12:12:10 PM epoch: 7, iter: 120, accuracy: 0.647
+01-03 12:12:16 PM epoch: 7, iter: 160, accuracy: 0.647
+01-03 12:12:18 PM Saved checkpoint to "params/sent-0007.params"
+01-03 12:12:19 PM ===================================
+01-03 12:12:19 PM epoch: 7, validation accuracy: 0.450
+01-03 12:12:19 PM ===================================
+01-03 12:12:25 PM epoch: 8, iter: 40, accuracy: 0.729
+01-03 12:12:32 PM epoch: 8, iter: 80, accuracy: 0.718
+01-03 12:12:38 PM epoch: 8, iter: 120, accuracy: 0.711
+01-03 12:12:44 PM epoch: 8, iter: 160, accuracy: 0.708
+01-03 12:12:46 PM Saved checkpoint to "params/sent-0008.params"
+01-03 12:12:47 PM ===================================
+01-03 12:12:47 PM epoch: 8, validation accuracy: 0.457
+01-03 12:12:47 PM ===================================
+01-03 12:12:53 PM epoch: 9, iter: 40, accuracy: 0.787
+01-03 12:13:00 PM epoch: 9, iter: 80, accuracy: 0.782
+01-03 12:13:06 PM epoch: 9, iter: 120, accuracy: 0.779
+01-03 12:13:13 PM epoch: 9, iter: 160, accuracy: 0.770
+01-03 12:13:14 PM Saved checkpoint to "params/sent-0009.params"
+01-03 12:13:15 PM ===================================
+01-03 12:13:15 PM epoch: 9, validation accuracy: 0.442
+01-03 12:13:15 PM ===================================
+01-03 12:13:15 PM -----------------------------------
+01-03 12:13:15 PM loading epoch 8 parameters
+01-03 12:13:15 PM reset learning rate to 0.000125
+01-03 12:13:15 PM -----------------------------------
+01-03 12:13:22 PM epoch: 10, iter: 40, accuracy: 0.778
+01-03 12:13:28 PM epoch: 10, iter: 80, accuracy: 0.794
+01-03 12:13:34 PM epoch: 10, iter: 120, accuracy: 0.794
+01-03 12:13:41 PM epoch: 10, iter: 160, accuracy: 0.792
+01-03 12:13:43 PM Saved checkpoint to "params/sent-0010.params"
+01-03 12:13:44 PM ===================================
+01-03 12:13:44 PM epoch: 10, validation accuracy: 0.445
+01-03 12:13:44 PM ===================================
+01-03 12:13:44 PM -----------------------------------
+01-03 12:13:44 PM loading epoch 8 parameters
+01-03 12:13:44 PM reset learning rate to 6.25e-05
+01-03 12:13:44 PM -----------------------------------
+01-03 12:13:50 PM epoch: 11, iter: 40, accuracy: 0.787
+01-03 12:13:57 PM epoch: 11, iter: 80, accuracy: 0.798
+01-03 12:14:03 PM epoch: 11, iter: 120, accuracy: 0.796
+01-03 12:14:09 PM epoch: 11, iter: 160, accuracy: 0.798
+01-03 12:14:11 PM Saved checkpoint to "params/sent-0011.params"
+01-03 12:14:12 PM ===================================
+01-03 12:14:12 PM epoch: 11, validation accuracy: 0.445
+01-03 12:14:12 PM ===================================
+01-03 12:14:12 PM -----------------------------------
+01-03 12:14:12 PM loading epoch 8 parameters
+01-03 12:14:12 PM reset learning rate to 3.125e-05
+01-03 12:14:12 PM -----------------------------------
+01-03 12:14:18 PM epoch: 12, iter: 40, accuracy: 0.790
+01-03 12:14:25 PM epoch: 12, iter: 80, accuracy: 0.790
+01-03 12:14:31 PM epoch: 12, iter: 120, accuracy: 0.794
+01-03 12:14:38 PM epoch: 12, iter: 160, accuracy: 0.794
+01-03 12:14:39 PM Saved checkpoint to "params/sent-0012.params"
+01-03 12:14:40 PM ===================================
+01-03 12:14:40 PM epoch: 12, validation accuracy: 0.445
+01-03 12:14:40 PM ===================================
+01-03 12:14:40 PM -----------------------------------
+01-03 12:14:40 PM loading epoch 8 parameters
+01-03 12:14:40 PM reset learning rate to 1.5625e-05
+01-03 12:14:40 PM -----------------------------------
+01-03 12:14:47 PM epoch: 13, iter: 40, accuracy: 0.786
+01-03 12:14:53 PM epoch: 13, iter: 80, accuracy: 0.789
+01-03 12:14:59 PM epoch: 13, iter: 120, accuracy: 0.791
+01-03 12:15:06 PM epoch: 13, iter: 160, accuracy: 0.793
+01-03 12:15:07 PM Saved checkpoint to "params/sent-0013.params"
+01-03 12:15:08 PM ===================================
+01-03 12:15:08 PM epoch: 13, validation accuracy: 0.447
+01-03 12:15:08 PM ===================================
+01-03 12:15:08 PM -----------------------------------
+01-03 12:15:08 PM loading epoch 8 parameters
+01-03 12:15:08 PM reset learning rate to 7.8125e-06
+01-03 12:15:08 PM -----------------------------------
+01-03 12:15:15 PM epoch: 14, iter: 40, accuracy: 0.767
+01-03 12:15:21 PM epoch: 14, iter: 80, accuracy: 0.783
+01-03 12:15:28 PM epoch: 14, iter: 120, accuracy: 0.784
+01-03 12:15:34 PM epoch: 14, iter: 160, accuracy: 0.788
+01-03 12:15:36 PM Saved checkpoint to "params/sent-0014.params"
+01-03 12:15:37 PM ===================================
+01-03 12:15:37 PM epoch: 14, validation accuracy: 0.445
+01-03 12:15:37 PM ===================================
+01-03 12:15:37 PM -----------------------------------
+01-03 12:15:37 PM loading epoch 8 parameters
+01-03 12:15:37 PM reset learning rate to 3.90625e-06
+01-03 12:15:37 PM -----------------------------------
+01-03 12:15:43 PM epoch: 15, iter: 40, accuracy: 0.794
+01-03 12:15:49 PM epoch: 15, iter: 80, accuracy: 0.786
+01-03 12:15:56 PM epoch: 15, iter: 120, accuracy: 0.787
+01-03 12:16:02 PM epoch: 15, iter: 160, accuracy: 0.793
+01-03 12:16:04 PM Saved checkpoint to "params/sent-0015.params"
+01-03 12:16:05 PM ===================================
+01-03 12:16:05 PM epoch: 15, validation accuracy: 0.450
+01-03 12:16:05 PM ===================================
+01-03 12:16:11 PM epoch: 16, iter: 40, accuracy: 0.799
+01-03 12:16:18 PM epoch: 16, iter: 80, accuracy: 0.797
+01-03 12:16:24 PM epoch: 16, iter: 120, accuracy: 0.799
+01-03 12:16:30 PM epoch: 16, iter: 160, accuracy: 0.799
+01-03 12:16:32 PM Saved checkpoint to "params/sent-0016.params"
+01-03 12:16:33 PM ===================================
+01-03 12:16:33 PM epoch: 16, validation accuracy: 0.452
+01-03 12:16:33 PM ===================================
+01-03 12:16:39 PM epoch: 17, iter: 40, accuracy: 0.804
+01-03 12:16:46 PM epoch: 17, iter: 80, accuracy: 0.805
+01-03 12:16:52 PM epoch: 17, iter: 120, accuracy: 0.804
+01-03 12:16:59 PM epoch: 17, iter: 160, accuracy: 0.801
+01-03 12:17:00 PM Saved checkpoint to "params/sent-0017.params"
+01-03 12:17:01 PM ===================================
+01-03 12:17:01 PM epoch: 17, validation accuracy: 0.452
+01-03 12:17:01 PM ===================================
+01-03 12:17:08 PM epoch: 18, iter: 40, accuracy: 0.804
+01-03 12:17:14 PM epoch: 18, iter: 80, accuracy: 0.797
+01-03 12:17:20 PM epoch: 18, iter: 120, accuracy: 0.803
+01-03 12:17:27 PM epoch: 18, iter: 160, accuracy: 0.807
+01-03 12:17:28 PM Saved checkpoint to "params/sent-0018.params"
+01-03 12:17:29 PM ===================================
+01-03 12:17:29 PM epoch: 18, validation accuracy: 0.451
+01-03 12:17:29 PM ===================================
+01-03 12:17:36 PM epoch: 19, iter: 40, accuracy: 0.815
+01-03 12:17:42 PM epoch: 19, iter: 80, accuracy: 0.814
+01-03 12:17:49 PM epoch: 19, iter: 120, accuracy: 0.814
+01-03 12:17:55 PM epoch: 19, iter: 160, accuracy: 0.812
+01-03 12:17:57 PM Saved checkpoint to "params/sent-0019.params"
+01-03 12:17:57 PM ===================================
+01-03 12:17:57 PM epoch: 19, validation accuracy: 0.447
+01-03 12:17:57 PM ===================================
+01-03 12:17:57 PM -----------------------------------
+01-03 12:17:57 PM loading epoch 8 parameters
+01-03 12:17:57 PM reset learning rate to 1.95313e-06
+01-03 12:17:57 PM -----------------------------------
+01-03 12:18:04 PM epoch: 20, iter: 40, accuracy: 0.802
+01-03 12:18:10 PM epoch: 20, iter: 80, accuracy: 0.789
+01-03 12:18:17 PM epoch: 20, iter: 120, accuracy: 0.789
+01-03 12:18:23 PM epoch: 20, iter: 160, accuracy: 0.792
+01-03 12:18:25 PM Saved checkpoint to "params/sent-0020.params"
+01-03 12:18:26 PM ===================================
+01-03 12:18:26 PM epoch: 20, validation accuracy: 0.452
+01-03 12:18:26 PM ===================================
+01-03 12:18:32 PM epoch: 21, iter: 40, accuracy: 0.779
+01-03 12:18:38 PM epoch: 21, iter: 80, accuracy: 0.788
+01-03 12:18:45 PM epoch: 21, iter: 120, accuracy: 0.792
+01-03 12:18:51 PM epoch: 21, iter: 160, accuracy: 0.790
+01-03 12:18:53 PM Saved checkpoint to "params/sent-0021.params"
+01-03 12:18:54 PM ===================================
+01-03 12:18:54 PM epoch: 21, validation accuracy: 0.445
+01-03 12:18:54 PM ===================================
+01-03 12:18:54 PM -----------------------------------
+01-03 12:18:54 PM loading epoch 8 parameters
+01-03 12:18:54 PM reset learning rate to 9.76563e-07
+01-03 12:18:54 PM -----------------------------------
+01-03 12:19:00 PM epoch: 22, iter: 40, accuracy: 0.775
+01-03 12:19:07 PM epoch: 22, iter: 80, accuracy: 0.782
+01-03 12:19:13 PM epoch: 22, iter: 120, accuracy: 0.785
+01-03 12:19:20 PM epoch: 22, iter: 160, accuracy: 0.785
+01-03 12:19:21 PM Saved checkpoint to "params/sent-0022.params"
+01-03 12:19:22 PM ===================================
+01-03 12:19:22 PM epoch: 22, validation accuracy: 0.456
+01-03 12:19:22 PM ===================================
+01-03 12:19:29 PM epoch: 23, iter: 40, accuracy: 0.795
+01-03 12:19:35 PM epoch: 23, iter: 80, accuracy: 0.791
+01-03 12:19:41 PM epoch: 23, iter: 120, accuracy: 0.795
+01-03 12:19:48 PM epoch: 23, iter: 160, accuracy: 0.798
+01-03 12:19:49 PM Saved checkpoint to "params/sent-0023.params"
+01-03 12:19:50 PM ===================================
+01-03 12:19:50 PM epoch: 23, validation accuracy: 0.450
+01-03 12:19:50 PM ===================================
+01-03 12:19:57 PM epoch: 24, iter: 40, accuracy: 0.799
+01-03 12:20:03 PM epoch: 24, iter: 80, accuracy: 0.794
+01-03 12:20:10 PM epoch: 24, iter: 120, accuracy: 0.794
+01-03 12:20:16 PM epoch: 24, iter: 160, accuracy: 0.798
+01-03 12:20:18 PM Saved checkpoint to "params/sent-0024.params"
+01-03 12:20:19 PM ===================================
+01-03 12:20:19 PM epoch: 24, validation accuracy: 0.445
+01-03 12:20:19 PM ===================================
+01-03 12:20:19 PM -----------------------------------
+01-03 12:20:19 PM loading epoch 8 parameters
+01-03 12:20:19 PM reset learning rate to 4.88281e-07
+01-03 12:20:19 PM -----------------------------------
+01-03 12:20:19 PM max validation accuracy 0.457 at epoch 8
+01-03 12:20:19 PM -----------------------------------
+01-03 12:20:19 PM loading epoch 8 parameters
+01-03 12:20:19 PM Genearting labels for test file, written into the test_result.txt

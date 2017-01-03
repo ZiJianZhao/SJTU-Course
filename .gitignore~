@@ -2,7 +2,6 @@
 report
 params
 *.zip
-*.tar
 # Executables
 *.out
 *.bin
